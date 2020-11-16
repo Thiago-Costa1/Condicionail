@@ -1,0 +1,13 @@
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.csprojAssemblyReference.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.AssemblyInfoInputs.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.AssemblyInfo.cs
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.csproj.CoreCompileInputs.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.exe
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.deps.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.runtimeconfig.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.runtimeconfig.dev.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.dll
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\bin\Debug\netcoreapp3.1\Estrutura condicional.pdb
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.dll
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.pdb
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Estrutura condicional\obj\Debug\netcoreapp3.1\Estrutura condicional.genruntimeconfig.cache
